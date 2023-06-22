@@ -1,0 +1,30 @@
+
+a {
+  font-family: 'Helvetica Neue', Arial, sans-serif;
+  font-size: 18px;
+  color: #6710d8;
+  text-decoration: none;
+  font-weight: bold;
+  border-radius: 5px;
+  padding: 20px;
+  text-align: center;
+  background-color: #9d0aff;
+  border: 2px solid #683983;
+}
+
+.p3:hover {
+  background-color: #49185f; /* Couleur au survol */
+}
+
+
+ body {
+  background-image: url("https://st.depositphotos.com/1583396/1759/i/450/depositphotos_17595783-stock-photo-violet-gradient-background.jpg");
+  background-size: cover;
+  color: white;
+  text-align: center;
+  margin: 20px;
+}
+
+h1, p, a {
+  padding-top: 20px;
+}
